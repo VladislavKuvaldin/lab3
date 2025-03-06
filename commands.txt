@@ -1,0 +1,8 @@
+ADD {"type": "mouse", "name": "SteelSeries Rival 600", "price": 5000, "last_modified": "2023-10-05", "mouse_type": "лазерная", "button_count": 8}
+ADD {"type": "keyboard", "name": "Logitech G Pro", "price": 7000, "last_modified": "2023-10-06", "keyboard_type": "механическая", "connector": "USB"}
+ADD {"type": "monitor", "name": "ASUS ROG Swift", "price": 25000, "last_modified": "2023-10-07", "width": 2560, "height": 1440}
+ADD {"type": "mouse", "name": "Razer DeathAdder", "price": 3000, "last_modified": "2023-10-08", "mouse_type": "оптическая", "button_count": 5}
+ADD {"type": "keyboard", "name": "Corsair K95", "price": 12000, "last_modified": "2023-10-09", "keyboard_type": "механическая", "connector": "USB"}
+REM price <= 5000
+REM price == 12000
+PRINT
